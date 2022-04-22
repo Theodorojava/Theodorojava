@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Arthur 
-- 👀 I’m interested in Java Web dev
-- 🌱 I’m currently learning Java & Frameworks
-- 💞️ I’m looking to collaborate on Politics 🇧🇷
+
 - 📫 How to reach me atmj.git@gmail.com
 
 <!---
